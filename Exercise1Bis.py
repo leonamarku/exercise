@@ -42,5 +42,5 @@
         print(f"Address: {self.address}")
         print(f"Phone Number: {self.phone_number}")
 
-person = Person("Era", "Aliu", 20, "Avd. Loyola University", "666-333-111")
+person = Person("Leona", "Marku", 20, "Avd. Loyola University", "666-333-111")
 person.print_info()
